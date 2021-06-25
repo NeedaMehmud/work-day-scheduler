@@ -8,7 +8,17 @@ body {
   color: white;
 }
 
-.present {
+/* .present {
+  background-color: #ff6961;
+  color: white;
+} */
+
+/* textarea#exampleTextarea {
+  background-color: #ff6961;
+  color: white;
+} */
+
+textarea.form-control {
   background-color: #ff6961;
   color: white;
 }
@@ -29,4 +39,8 @@ body {
 .saveButton i:hover {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
+}
+
+.jumbotron {
+  background-color: aquamarine;
 }
