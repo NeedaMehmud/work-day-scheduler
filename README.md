@@ -29,5 +29,9 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 
+## Github page
+https://needamehmud2017.github.io/work-day-scheduler/
 
+## Screenshot
+![image](screenshot.png)
 
